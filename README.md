@@ -23,11 +23,12 @@ Every time content changes in Contentful, the site is **automatically rebuilt on
 
 ## 🛠️ Tech Stack
 
-## Technology | Description 
+# Technology | Description 
 
- **React** | Frontend library for building the UI |
- **Contentful** | Headless CMS for managing project data |
- **CSS** | Custom styling for cards and responsive layout |
- **Netlify** | Hosting platform for automatic deployment and webhooks |
- **.env** | Stores private API keys securely |
+ - **React** - Frontend library for building the UI 
+ - **Contentful** -  Headless CMS for managing project data 
+ - **CSS** - Custom styling for cards and responsive layout 
+ - **Netlify** - Hosting platform for automatic deployment and webhooks 
+ - **.env** - Stores private API keys securely 
+
 
