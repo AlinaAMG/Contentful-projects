@@ -2,33 +2,31 @@
 
 # 🌐 React + Contentful Portfolio Projects
 
-This project is a **React application** that dynamically fetches and displays project data from **Contentful**, a headless CMS.  
-Each project appears as a clean, responsive **card** with a title and image.  
-When you click on a project image, you’re redirected to the **live deployed version** hosted on Netlify.  
+Dit project is een React-applicatie die dynamisch projectgegevens ophaalt en weergeeft vanuit Contentful, een headless CMS.
+Elk project wordt weergegeven als een overzichtelijke, responsieve kaart met een titel en afbeelding.
+Wanneer je op een projectafbeelding klikt, word je doorgestuurd naar de live versie die gehost wordt op Netlify.
 
-Every time content changes in Contentful, the site is **automatically rebuilt on Netlify** using **webhooks**, keeping your portfolio always up to date.
+Elke keer dat er content wordt aangepast in Contentful, wordt de site automatisch opnieuw opgebouwd op Netlify via webhooks, waardoor je portfolio altijd up-to-date blijft.
 
+# 🚀 Functionaliteiten
 
-## 🚀 Features
-
-- 🧩 **Dynamic content fetching** — All project data (title, image, and URL) is fetched directly from Contentful’s API.
-- ⚡ **React Hooks** — Built using `useState` and `useEffect` for managing and loading data.
-- 🎨 **Modern responsive design** — Styled with CSS for a clean, flexible card layout.
-- 🔗 **Live project links** — Clicking on an image opens the deployed project in a new browser tab.
-- 🔒 **Secure API keys** — Managed safely through environment variables (`.env`).
-- 🔁 **Automatic updates via webhooks** — When you update or add content in Contentful, Netlify rebuilds your site automatically.
-- 💾 **Headless CMS integration** — Add or edit content easily without touching the code.
-
----
+🧩 Dynamisch content ophalen — Alle projectgegevens (titel, afbeelding en URL) worden direct opgehaald via de Contentful API.
+⚡ React Hooks — Gebouwd met useState en useEffect voor het beheren en laden van data.
+🎨 Modern en responsief design — Gestyled met CSS voor een nette en flexibele kaartlay-out.
+🔗 Live projectlinks — Klikken op een afbeelding opent het project in een nieuw browservenster.
+🔒 Veilige API-sleutels — Beheerd via environment variables (.env).
+🔁 Automatische updates via webhooks — Wanneer je content in Contentful bijwerkt of toevoegt, bouwt Netlify je site automatisch opnieuw.
+💾 Headless CMS-integratie — Voeg eenvoudig content toe of bewerk het zonder code aan te passen.
 
 ## 🛠️ Tech Stack
 
 # Technology | Description 
 
- - **React** - Frontend library for building the UI 
- - **Contentful** -  Headless CMS for managing project data 
- - **CSS** - Custom styling for cards and responsive layout 
- - **Netlify** - Hosting platform for automatic deployment and webhooks 
- - **.env** - Stores private API keys securely 
+React	- Frontendbibliotheek voor het bouwen van de gebruikersinterface
+Contentful	Headless CMS - voor het beheren van projectgegevens
+CSS	Custom styling-  voor kaarten en responsieve lay-out
+Netlify	Hostingplatform -  voor automatische deploys en webhooks
+.env -	Veilige opslag van privé API-sleutels
+
 
 
