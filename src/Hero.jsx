@@ -7,12 +7,11 @@ const Hero = () => {
         <div className="hero-title">
           <h1>Contentful CMS</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit ipsa
-            quos id aperiam pariatur perferendis, amet exercitationem ipsum
-            deleniti assumenda error vero atque. A illum nostrum totam deserunt
-            ipsa et. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Quas, ex possimus! Laboriosam quibusdam atque quidem culpa magnam
-            molestias vero reiciendis voluptates beatae?
+            Dynamische portfolio website gebouwd met React en Contentful CMS.
+            Alle projectgegevens, zoals titels, afbeeldingen en live links,
+            worden automatisch opgehaald en weergegeven. Hierdoor blijft mijn
+            portfolio altijd up-to-date, overzichtelijk en professioneel, zonder
+            dat ik de code handmatig hoef aan te passen.
           </p>
         </div>
         <div className="img-container">
